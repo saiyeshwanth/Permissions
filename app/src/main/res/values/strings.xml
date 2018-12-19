@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ListView 15/12</string>
+    <string-array name="ListView">
+        <item>Camera</item>
+        <item>Bluetooth</item>
+        <item>SMS</item>
+        <item>Contacts</item>
+        <item>Phone</item>
+        <item>Storage</item>
+    </string-array>
+    <string-array name="permission">
+        <item>Thanks for giving the camera permission</item>
+        <item>Thanks for giving the bluetooth permission</item>
+        <item>Thanks for giving the SMS permission</item>
+        <item>Thanks for giving the Contacts permission</item>
+        <item>Thanks for giving the Phone permission</item>
+        <item>Thanks for giving the Storage permission</item>
+    </string-array>
+    <string name="DeniedPermission"> Request Denied</string>
+</resources>
